@@ -1,28 +1,22 @@
 ## Hi, I'm Avithal 👋
 
 🎯 Computer Vision / AI Engineer
-🧠 Medical Imaging | MRI | CT | Microscopy | Segmentation | Registration
+🧠 Medical Imaging | MRI | CT | Microscopy | Segmentation |classification
 📍 Rockville, MD | Open to hybrid / onsite roles
 
 🔬 About Me
 
-I’m a computer vision engineer with 7+ years of experience building classical and deep-learning–based vision systems, primarily in biotech and medical imaging.
+I’m a computer vision engineer with 10+ years of experience building classical and deep-learning–based vision systems, primarily in biotech and medical imaging.
 
 I enjoy working on problems that require algorithmic depth, careful validation, and strong collaboration between research and engineering.
 
 What I focus on:
 
-Medical image segmentation & registration
-
-MRI / CT / microscopy pipelines
-
-Classical CV combined with modern deep learning
-
+Classical CV combined with modern deep learning to make robust systems
 Research-to-production workflows
-
+Medical image segmentation & registration
+MRI / CT / microscopy pipeline
 Work–life balance and long-term impact matter to me.
-
-
 Clean, reproducible experiments
 
 🛠️ Tech Stack
