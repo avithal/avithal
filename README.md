@@ -2,7 +2,7 @@
 
 🎯 Computer Vision / AI Engineer
 🧠 Medical Imaging | MRI | CT | Microscopy | Segmentation |classification
-📍 Rockville, MD | Open to hybrid / onsite roles
+📍 Rockville, MD | Open to hybrid / onsite /remote roles 
 
 🔬 About Me
 
