@@ -1,7 +1,7 @@
 ## Hi, I'm Avithal 👋
 
-🎯 Computer Vision / ML Engineer
-🧠 Medical Imaging | MRI | CT | Microscopy | Segmentation |classification
+🎯 Robotics|Computer Vision / ML Engineer
+🧠 Edge ImplementationMedical Imaging | MRI | CT | Microscopy | Segmentation |classification
 📍 Rockville, MD | Open to hybrid / onsite /remote roles 
 
 🔬 About Me
